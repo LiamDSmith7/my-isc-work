@@ -1,0 +1,4 @@
+myString = 'string'
+for i in stri:
+  print(i)
+
